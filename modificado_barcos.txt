@@ -1,0 +1,6 @@
+# Lista de embarcaciones atracadas en el puerto
+B;ABC1234;Santa Maria;12,1;40;02/04/2024;30/11/2024
+V;CDR4321;Furor;14,6;55;09/08/2024
+# Datos de la flota pesquera
+P;FTY7531;Titanic;22,2;80
+# Fin de la lista
